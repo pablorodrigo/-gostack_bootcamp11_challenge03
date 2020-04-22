@@ -31,4 +31,11 @@ Para esse desafio temos os seguintes testes:
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
-### Dependencies used to develop
+### Dependencies used to resolve
+
+- Promise based HTTP client for the browser and node.js - (https://github.com/axios/axios)
+```sh
+$ npm install axios
+ ---OR---
+$ yarn add axios
+```
