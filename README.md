@@ -39,3 +39,7 @@ $ npm install axios
  ---OR---
 $ yarn add axios
 ```
+
+### Images
+
+<img alt="Repository tests" src="https://raw.githubusercontent.com/pablorodrigo/gostack_bootcamp11_challenge03/master/images/tests.png" width="50%" />
